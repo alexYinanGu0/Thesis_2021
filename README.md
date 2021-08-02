@@ -1,6 +1,6 @@
 # Thesis_2021
 
-List of Content
+##List of Content
 
 1. SALES - Python code for processing sales data.
 2. TOPICS - Python code for processing topics data from Twitter.
