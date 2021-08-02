@@ -1,4 +1,4 @@
-# In "Ptyhon Codes" file:
+# Python Codes
 
 1. SALES - Python code for processing sales data.
 2. TOPICS - Python code for processing topics data from Twitter.
