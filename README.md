@@ -1,6 +1,6 @@
 # Social Media Analysis on Panic Buying in the COVID-19 Pandemic
 
-<p align="center">
+<div align="center">
 
   Alex Yinan Guo
   
@@ -14,7 +14,7 @@
   
   July 31, 2021
 
-</p>
+</div>
 
 
 ## In "Codes" file:
