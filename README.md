@@ -1,20 +1,13 @@
 # Social Media Analysis on Panic Buying in the COVID-19 Pandemic
 
-<div align="center">
+Author: Alex Yinan Guo, Department of Economics, Keio University
+ 
+Supervisor: [Masahiro Fukuhara](https://www.linkedin.com/in/masahiro-fukuhara-8107239/?originalSubdomain=jp), Department of Economics, Keio University
+  
+Co-supervisor: [Peter Romero](https://www.psychometrics.cam.ac.uk/about-us/directory/peter-romero), Psychometrics Centre, University of Cambridge
 
-  Alex Yinan Guo
-  
-  Department of Economics, Keio University
-  
-  Fukuhara Research Seminar
-  
-  Supervisor: Masahiro Fukuhara, Department of Economics, Keio University
-  
-  Co-supervisor: Peter Romero, Graduate School of Economics, Keio University
-  
-  July 31, 2021
+July 31, 2021
 
-</div>
 
 ## Abstract
 
