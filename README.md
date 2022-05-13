@@ -24,6 +24,7 @@ This paper aimed to explore people's collective response to the COVID-19 outbrea
 
 ## Files
 
+```
 .
 ├── docs                          # Documentation files
 │   ├── appendix.pdf              # Appendix of thesis
@@ -44,7 +45,7 @@ This paper aimed to explore people's collective response to the COVID-19 outbrea
 │   └── FEX_GLM.R                 # R code for feature engineering and creating GLMs.
 ├── thesis.pdf
 └── README.md
-
+```
 
 ## In "Codes" file:
 1. SALES.ipynb - Python code for processing sales data.
