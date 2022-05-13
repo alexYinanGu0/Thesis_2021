@@ -332,9 +332,9 @@ capture.output(f, file = "ForwardStepwise_I.csv")
 #### individual significance of featuers ####
 
 solo=glm(spike~  
-             #keywords_df300 #negative Œ‰ùh
-           #keywords_df3450 #Lag2 negative Œ‰ùh
-           #keywords_df1736.high #pct count Œ‰ùh
+             #keywords_df300 #negative ÂÜ∑¬ùh
+           #keywords_df3450 #Lag2 negative ÂÜ∑¬ùh
+           #keywords_df1736.high #pct count ÂÜ∑¬ùh
          #Lag1.Brand39
          #Brand39
            
@@ -342,14 +342,14 @@ solo=glm(spike~
         #Roll3.epidemic.high
 
 #X.health.and.fitness.disease
-#keywords_df1231.high #count Œ‰ùh
+#keywords_df1231.high #count ÂÜ∑¬ùh
     ###################################################Lag1.nonwoven.high
    ##########################################Lag1.other_share.low
   #####################################################nonwoven.high
  ###########################Lag1.regular.high
 #Lag2..health.and.fitness.disease
 #Lag3.Brand39
-###############################################keywords_df7723.high #Roll3 count Œ‰ùh
+###############################################keywords_df7723.high #Roll3 count ÂÜ∑¬ùh
 #####################################################regular.high
 ###########################other_share.low
 ##############no.high
@@ -361,29 +361,29 @@ solo=glm(spike~
 ##############Lag2.other_share.low
 ##############Roll3.nonwoven_share.high
 
-##############keywords_df7661.high #Roll3 count –¬–Õ•≥•Ì• •¶•§•Î•π
+##############keywords_df7661.high #Roll3 count ‰ªü‰æè„Ç≥„É≠„Éä„Ç¶„Ç§„É´„Çπ
 ##############Roll3.yes.high
 ##############Roll3.ten_thirty_package_number.high
-#keywords_df4771 #Lag3 negative Œ‰ùh
+#keywords_df4771 #Lag3 negative ÂÜ∑¬ùh
 ##############Lag2.over_thirty_package_number.high
 ##############Lag3.nonwoven_share.high
 ##############interval.peak.travel.low
-#keywords_df1556.high pct count ÷–π˙
+#keywords_df1556.high pct count Â∂ÑÂøΩ
 ##############yes.high
 ##############Lag3.other_share.low
 ##############DiffLag3.ten_thirty_package_number.low
 #Lag3..health.and.fitness.disease
-#keywords_df1736.low #pct count Œ‰ùh
+#keywords_df1736.low #pct count ÂÜ∑¬ùh
 #Lag2.Brand32
 
 
-#	keywords_df7218.low #DiffLag3 count Œ‰ùh
+#	keywords_df7218.low #DiffLag3 count ÂÜ∑¬ùh
 #	Roll3.interval.peak.travel.low
 #	Lag2..health.and.fitness.disease.epidemic
 #	Roll3.cloth.high
 #	Lag1.health.and.fitness.high
 #	Lag1..health.and.fitness.disease
-##################################	keywords_df7535.high #Roll3 count •Ô•Ø•¡•Û
+##################################	keywords_df7535.high #Roll3 count „ÉØ„ÇØ„ÉÅ„É≥
 #	Lag1.Brand32
 #	keywords_df1829.low #Lag1 positive_label_count
 #	nonwoven_share.high
@@ -395,7 +395,7 @@ solo=glm(spike~
 #	DiffLag2.three_ten_package_number.low
 #	Lag1.yes.high
 #	DiffLag3.three_ten_package_number.low
-#	keywords_df2995.high #Lag1 count –¬–Õ•≥•Ì• •¶•§•Î•π
+#	keywords_df2995.high #Lag1 count ‰ªü‰æè„Ç≥„É≠„Éä„Ç¶„Ç§„É´„Çπ
 #	keywords_df7311.low #Roll3 positive_label_count
 #	three_ten_package_number.high
 #	zero_three_package_number.high
@@ -406,7 +406,7 @@ solo=glm(spike~
 #	Lag1..health.and.fitness.disease.epidemic
 #	Lag2.interval.peak.travel.low
 #	Lag3.no_share.high
-#	keywords_df5050 #Lag3 positive ÷–π˙
+#	keywords_df5050 #Lag3 positive Â∂ÑÂøΩ
 #	Lag2.cloth.high
 #	DiffLag3.yes.low
 #	disease.high
@@ -485,19 +485,19 @@ confint(solo)
 
 topics_keywords = glm(spike~
                         
-                        keywords_df1231.high    +                 #count Œ‰ùh	
-                        #keywords_df1736.high   +                #pct count Œ‰ùh	
-                        #	keywords_df7218.low        +              #DiffLag3 count Œ‰ùh
-                        #keywords_df1736.low            +              #pct count Œ‰ùh	
-                        #	keywords_df8228.high           +             #DiffRoll3 count Œ‰ùh
+                        keywords_df1231.high    +                 #count ÂÜ∑¬ùh	
+                        #keywords_df1736.high   +                #pct count ÂÜ∑¬ùh	
+                        #	keywords_df7218.low        +              #DiffLag3 count ÂÜ∑¬ùh
+                        #keywords_df1736.low            +              #pct count ÂÜ∑¬ùh	
+                        #	keywords_df8228.high           +             #DiffRoll3 count ÂÜ∑¬ùh
                         
-                        keywords_df2995.high          +             #Lag1 count –¬–Õ•≥•Ì• •¶•§•Î•π
-                        # keywords_df1674.high           +          #pct count –¬–Õ•≥•Ì• •¶•§•Î•π	
-                        #	keywords_df4318.high            +       #Lag2 count –¬–Õ•≥•Ì• •¶•§•Î•π
+                        keywords_df2995.high          +             #Lag1 count ‰ªü‰æè„Ç≥„É≠„Éä„Ç¶„Ç§„É´„Çπ
+                        # keywords_df1674.high           +          #pct count ‰ªü‰æè„Ç≥„É≠„Éä„Ç¶„Ç§„É´„Çπ	
+                        #	keywords_df4318.high            +       #Lag2 count ‰ªü‰æè„Ç≥„É≠„Éä„Ç¶„Ç§„É´„Çπ
                         
-                        #	keywords_df7523.high         +              #Roll3 count •ﬁ•π•Ø
-                        #keywords_df1556.high         +         #pct count ÷–π˙	
-                        keywords_df1051.high         +           #count ÷–π˙      
+                        #	keywords_df7523.high         +              #Roll3 count „Éû„Çπ„ÇØ
+                        #keywords_df1556.high         +         #pct count Â∂ÑÂøΩ	
+                        keywords_df1051.high         +           #count Â∂ÑÂøΩ      
                         
                         
                         #	Lag1.health.and.fitness.high
@@ -586,9 +586,9 @@ confint(topics_keywords_count)
 
 sentiment = glm(spike~
                   
-                  #keywords_df3450          +              #Lag2 negative Œ‰ùh	
-                  #keywords_df4771              +             #Lag3 negative Œ‰ùh	        
-                  keywords_df300              +              #negative Œ‰ùh	      
+                  #keywords_df3450          +              #Lag2 negative ÂÜ∑¬ùh	
+                  #keywords_df4771              +             #Lag3 negative ÂÜ∑¬ùh	        
+                  keywords_df300              +              #negative ÂÜ∑¬ùh	      
                   
                   #	keywords_df2.low                       #positive_label_count
                   #	keywords_df7311.low                       #Roll3 positive_label_count        
@@ -599,9 +599,9 @@ sentiment = glm(spike~
                   #	keywords_df4471.high                        #Lag3 negative_label_count        
                   #	keywords_df3148.high                   #Lag2 negative_label_count
                   
-                  #	keywords_df7523.high         +              #Roll3 count •ﬁ•π•Ø
-                  #keywords_df1556.high         +         #pct count ÷–π˙	
-                  #keywords_df1051.high         +           #count ÷–π˙      
+                  #	keywords_df7523.high         +              #Roll3 count „Éû„Çπ„ÇØ
+                  #keywords_df1556.high         +         #pct count Â∂ÑÂøΩ	
+                  #keywords_df1051.high         +           #count Â∂ÑÂøΩ      
                   
                   
                   
