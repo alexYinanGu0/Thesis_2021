@@ -16,6 +16,11 @@
 
 </div>
 
+## Abstract
+
+This paper aimed to explore people's collective response to the COVID-19 outbreak and the behavior of panic buying with the impact of social media. To achieve this goal, sales data of facemasks in Tokyo region from the end of 2019 to mid-2020 was analyzed to explore people’s changes of purchasing patterns and consumption behaviors during the pandemic. In addition, this paper examined social media data from 7,435 Japanese Twitter users and 23,501,189 Tweets from 2009 to mid-2020 to inspect impacts of social media factors, i.e. extracts topics, keywords, and sentiment, on panic buying.
+
+*Keywords*: COVID-19; social media analysis; topic analysis; sentiment analysis; panic buying
 
 ## In "Codes" file:
 1. SALES - Python code for processing sales data.
