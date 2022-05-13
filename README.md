@@ -2,10 +2,15 @@
 <p align="center">
 
   Alex Yinan Guo
+  
   Department of Economics, Keio University
+  
   Fukuhara Research Seminar
+  
   Supervisor: Masahiro Fukuhara, Department of Economics, Keio University
+  
   Co-supervisor: Peter Romero, Graduate School of Economics, Keio University
+  
   July 31, 2021
 
 </p>
