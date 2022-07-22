@@ -15,6 +15,8 @@ This paper aimed to explore people's collective response to the COVID-19 outbrea
 
 *Keywords*: COVID-19; social media analysis; topic analysis; sentiment analysis; panic buying
 
+Please find the full thesis [here](https://github.com/alexYinanGu0/Thesis_2021/blob/main/thesis.pdf).
+
 ## Files
 
 ```
